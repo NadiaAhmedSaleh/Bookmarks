@@ -1,0 +1,49 @@
+
+body{
+
+    
+    background: linear-gradient(90deg, rgba(25,0,36,1) 0%, rgba(121,9,113,1) 35%, rgba(179,0,255,1) 100%);
+
+}
+
+
+h1{
+
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#demo{
+
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+    background-color: rgb(222, 193, 228);
+
+}
+
+#bookmarkh2{
+
+    color: rgb(33, 37, 41);
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Righteous, cursive;
+    margin-top: 20px;
+    text-shadow: 2px 2px #f700ff4f;
+
+}
+
+label{
+    padding-bottom: 8px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+
+#addBtn{
+
+    padding-left: 48px;
+    padding-right: 48px;
+    
+ 
+}
